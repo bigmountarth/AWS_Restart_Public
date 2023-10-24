@@ -1,6 +1,6 @@
 ## AWS CodeDeploy
 
-![AWS CodeDeploy](<AWS CodeDeploy.png>)
+![AWS CodeDeploy](<https://cloudacademy.com/wp-content/uploads/2016/08/kisspng-amazon-web-services-amazon-elastic-compute-cloud-s-aws-codedeploy-logo-svg-vector-amp-png-transpare-5b885205e71aa9.4419486615356605499466.jpg>)
 ```
 CodeDeploy can deploy application content that runs on a server and is stored in Amazon S3 buckets, GitHub repositories, or Bitbucket repositories. CodeDeploy can also deploy a serverless Lambda function. You do not need to make changes to your existing code before you can use CodeDeploy.
 ```
